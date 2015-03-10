@@ -13,4 +13,3 @@ Hard drive: How big in terms of storage space? who made it?
 
 How is laptop different from desktop?
 
-test
